@@ -6,7 +6,7 @@
 
 ### 3. Make a dashboard and show 2 maps visualization i.e. basic map and filler maps
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/89411580/151602772-f903954f-b9c2-4888-9dd7-a18305bae2fd.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/89411580/151603065-a2119672-b07c-4d07-ba6e-506f552047f7.png">
 
 ### 4. Create a report which has:
 ### - Bar chart
