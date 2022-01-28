@@ -2,7 +2,11 @@
 
 ### 1. Make a simple dashboard and show columns, bar charts, line charts, and area charts.
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/89411580/151604466-e7596fbb-318f-4712-bbeb-5a5ccc43f790.png">
+
 ### 2. Make a simple dashboard and show combination chart, Scatter chart, Shape chart, and Treemap chart.
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/89411580/151608728-4ada0a47-a0d4-43e6-afd3-e5ce48c5bbae.png">
 
 ### 3. Make a dashboard and show 2 maps visualization i.e. basic map and filler maps
 
@@ -17,6 +21,7 @@
 
 ### guide: Sales data can be used
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/89411580/151606923-39434bdb-f5dc-4114-a0a2-808badea03e8.png">
 
 ### 5. Make a report to analyze product sales using treemap visualization.
 
